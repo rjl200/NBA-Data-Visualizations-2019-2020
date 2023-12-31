@@ -1,0 +1,24 @@
+Rafi Leviton
+ISTA 131
+Final Project Dataset
+
+Web Address of Dataset:
+https://sports-statistics.com/sports-data/nba-basketball-datasets-csv-files/
+
+CSV File Name:
+ista131_fp_nba2019-20_pbp.csv
+
+The dataset I am choosing to analyze contains play by play data of the 2019-2020 NBA season.
+I am using this dataset because first off, I love basketball and the NBA, but I also believe some
+insightful analytics can be done using this data. 
+
+Using this data I could examine the effectiveness of various shot types, like layups, hooks, dunks,
+and 2-pt and 3-pt jump shots. I could then create a bar chart with the x-axis as the shot types
+and the y-axis could be the count of made or missed shots or even the percentage of made shots.
+
+Additionally I could analyze a teams performance in a game with time out of 48 mins on the x-axis
+and points scored on the y-axis. This visualization would allow us to see the moments throughout the game when
+a team is scoring the most. Maybe right at the beginning, when everyones legs are fresh or maybe at the end when 
+everyone is fully warmed up. 
+
+These are just some visualization ideas that initially come to mind. 
